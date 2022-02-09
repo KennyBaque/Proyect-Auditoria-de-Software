@@ -1,0 +1,27 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\soinglo\Documents\Proyecto\Proyect-Auditoria.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\soinglo\Documents\Proyecto\.
+Java min ver:	1.015.000_001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_281
+Ignore:		1.008.000_281
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Check launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe (OK)
+Match:		1.015.000_001
+Runtime used:	1.015.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-15.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\soinglo\Documents\Proyecto\Proyect-Auditoria.exe"
+Args length:	64/32768 chars
+Exit code:	0
